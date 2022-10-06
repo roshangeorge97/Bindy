@@ -1,5 +1,5 @@
 # Bindy
-A Platform where people can sell their read books, and keep the knowledge sharing
+A Platform where people can sell their read books, and keep the knowledge sharing.
 
 > our aim
 
