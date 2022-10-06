@@ -11,4 +11,4 @@ A Platform where people can sell their read books, and keep the knowledge sharin
 
 > what the site offers?
 
-*Users will are given Personalized portal, to add their favourite Books to cart and buy them, the books recommended to them will be personalised according to their previous purchases using ML models*
+*Users will are given Personalized portal, to add their favourite Books to cart and buy them, the books recommended to them will be personalised according to their previous purchases using ML models.*
